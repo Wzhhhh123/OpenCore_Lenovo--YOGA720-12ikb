@@ -19,7 +19,7 @@ Lenovo Yoga 720-12IKB using OpenCore
 | :--: | -- |
 | **型号** | Lenovo Yoga 720 12-IKB |
 | **处理器** | Intel Core i7-7200U |
-| 核心显卡 | Intel HD620 (Integrated GPU) |
+| **核心显卡** | Intel HD620 (Integrated GPU) |
 | **RAM** | 8GB DDR4 (2133Mhz) |
 | **内置显示屏** | 1080P UHD @60Hz with Touchscreen & Pen |
 | **硬盘** | 512GB m.2 NGFF(sata) |
