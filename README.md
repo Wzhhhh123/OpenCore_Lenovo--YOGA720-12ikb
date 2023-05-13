@@ -10,6 +10,7 @@ Lenovo Yoga 720-12IKB using OpenCore
 ###
 ###
 
+![IMG_5928](https://github.com/Wzhhhh123/OpenCore_Lenovo--YOGA720-12ikb/assets/59770581/64f9a395-8033-4654-a8d9-13d2e1a7f6fc)
 
 
 
